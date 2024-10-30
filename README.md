@@ -32,5 +32,5 @@ The dataset used in this project is the **Social Network Ads** dataset, which in
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/EbadShabbi/Naive_Bayes_classification-gaussain.git
+   cd Naive_Bayes_classification-gaussain
